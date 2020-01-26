@@ -1,0 +1,38 @@
+{
+  "name": "HiTekno",
+  "short_name": "HiTekno",
+  "start_url": "https://www.hitekno.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Media informasi terbaru yang mengulas serba-serbi tentang teknologi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s48/HiTekno.my.id.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s72/HiTekno.my.id.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s96/HiTekno.my.id.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s144/HiTekno.my.id.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s168/HiTekno.my.id.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s192/HiTekno.my.id.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vTDz2A-EnWI/Xi2mRlxquPI/AAAAAAAAACY/pSnmP1lq7mYeKRbGETZUKelq0dRIkBoaACLcBGAsYHQ/s512/HiTekno.my.id.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
